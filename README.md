@@ -28,11 +28,11 @@ Lok Sabha Election Results 2024 India
 
 ### Dashboard 1
 
-![Dashboard 1](Dashboard 1.png)
+(Dashboard 1.png) - I've incorporated piecharts , maps , heat maps and barcharts
 
 ### Dashboard 2
 
-![Dashboard 2](Dashboard 2.png)
+(Dashboard 2.png) - I've used donut charts, stacked bar charts and scatter charts
 
 
 ## Future Improvements
